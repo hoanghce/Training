@@ -1,5 +1,5 @@
-# Outline buổi training
-# Chapter 1: Giới thiệu về DAX
+# OUTLINE BUỔI TRAINING TẠI DKSH
+# Chapter 1: GIỚI THIỆU VỀ DAX
 ## 1.1. Ngôn ngữ DAX là gì ?
 - DAX – Data Analysis Expressions là ngôn ngữ chính được sử dụng trong Power BI Desktop, Power Pivot cho Excel, SSAS Tabular models trong Microsoft SQL Server
 - DAX là một ngôn ngữ dùng để giao tiếp với Semantic Model hay Data Model. Để tính toán các KPI hay dùng cho phân tích thống kê các chỉ số.
