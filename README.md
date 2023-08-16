@@ -12,6 +12,23 @@
 ## 1.3. Từ business logic đến systax trong DAX 
 ![image](https://github.com/hoanghce/Training_DKSH/assets/87324837/0755ada6-1266-439a-85bc-2c97f4a5cbfa)
 
+## 1.4. Sự tương đồng giữa DAX và SQL
+
+# Chapter 2: NGỮ CẢNH TRONG DAX
+## 2.1. Row Context
+## 2.2. Evaluation Context
+## 2.3. Filter Context
+
+# Chapter 3: CÁC HÀM BỎ BỘ LỌC TRONG DAX
+## 3.1. Các loại Filter
+## 3.2. Các hàm bỏ bộ lọc
+- ALL, ALLSELECTED, REMOVEFILTERS, ALLEXCEPT
+# Chapter 4: CÁC LOẠI HÀM BẢNG TRONG DAX
+## 4.1. Các hàm tạo bảng ảo
+ - SUMMARIZE, ADDCOLUMNS, SELECTCOLUMNS, FILTER, GROUPBY
+## 4.2. Các hàm liên quan đến bộ lọc
+
+
 
 
 
