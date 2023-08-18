@@ -28,6 +28,7 @@
 ## 4.2. Các hàm liên quan đến bộ lọc
 
 # BÀI TẬP:
+## Chapter 1 - Chapter 2
 <strong> 1. Trong mỗi năm xem mỗi category đóng góp bao nhiêu % doanh thu? ? </strong>
    - Doanh Thu = Sales[Net Price] * Sales[Quantity]
 
@@ -38,6 +39,15 @@
 
    ![image](https://github.com/hoanghce/Training_DKSH/assets/87324837/a7b51f9a-659a-499f-a6d6-4bcde9177676)
 
+## Chapter 3 - 4
+Visual phục vụ tính toán trong các bài tập
+![image](https://github.com/hoanghce/Training_DKSH/assets/87324837/70a191c6-e40a-4b9a-922c-aa1a8d3413c7)
+
+<strong> 3. Tính toán doanh thu lũy kế theo năm ?
+
+<strong> 5. Xem xét doanh thu của các sản phẩm được bán trong năm đầu tiên qua các năm tiếp theo ?
+ 
+<strong> 4. Từ yêu cầu của câu 3 tạo một Filter nhấn vào một năm bất kì sẽ xem xét doanh thu của các sản phẩm được bán trong năm đó ở các năm khác sẽ như thế nào ?
 
 
 
