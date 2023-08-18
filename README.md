@@ -27,6 +27,13 @@
  - SUMMARIZE, ADDCOLUMNS, SELECTCOLUMNS, FILTER, GROUPBY
 ## 4.2. Các hàm liên quan đến bộ lọc
 
+# BÀI TẬP:
+1. Trong mỗi năm xem mỗi category đóng góp bao nhiêu % doanh thu?
+   - Doanh Thu = Sales[Net Price] * Sales[Quantity]
+ ![image](https://github.com/hoanghce/Training_DKSH/assets/87324837/801f9b88-41c9-4001-a8af-454eb84b5598)
+
+2. Tính toán như câu 1 nhưng bây giờ kéo thêm cột Promotion Category trong bảng Promotion (Lưu ý không chia theo Promotion Category và kết quả vẫn như câu 1)
+   ![image](https://github.com/hoanghce/Training_DKSH/assets/87324837/a7b51f9a-659a-499f-a6d6-4bcde9177676)
 
 
 
