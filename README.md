@@ -41,6 +41,8 @@
 
 ## Chapter 3 - 4
 Visual phục vụ tính toán trong các bài tập
+
+
 ![image](https://github.com/hoanghce/Training_DKSH/assets/87324837/70a191c6-e40a-4b9a-922c-aa1a8d3413c7)
 
 <strong> 3. Tính toán doanh thu lũy kế theo năm ?
